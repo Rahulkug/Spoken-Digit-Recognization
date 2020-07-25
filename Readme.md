@@ -3,7 +3,7 @@
 The repository contains all the files needed to run the Number detection model-
 
   - "_main _.py" -> Main file to run the number detection algorithm. 
-  - "util .py" -> Contains the unitlity functions used to Filter the input sound file
+  - "util .py" -> Contains the utility functions used to Filter the input sound file
   - Notebooks -> All the notebooks used for arriving at the final code.
 
 
